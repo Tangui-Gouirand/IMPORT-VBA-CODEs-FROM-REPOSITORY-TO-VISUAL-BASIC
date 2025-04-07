@@ -13,14 +13,14 @@ Ce projet fournit un code permettant d'importer rapidement du code VBA (`.cls`, 
 5.  **Installez et ouvrez l'éditeur RibbonX :** [Office RibbonX Editor](https://github.com/fernandreu/office-ribbonx-editor).
     * 5.1 Ouvrez le fichier `.ppam` avec l'éditeur RibbonX.
     * 5.2 Faites un clic droit sur le fichier dans l'éditeur RibbonX, puis cliquez sur `Insérer Office 2010+ Custom UI Part`.
-    * 5.3 Copiez le contenu du fichier `SYNCHRO.xml` dans la zone de texte qui apparaît.
+    * 5.3 Copiez le contenu du fichier `SYNCHRO.xml` dans la zone de texte qui apparaît. [Télécharger SYNCHRO.xml](https://github.com/Tangui-Gouirand/Synchroniser-VBA-POWERPOINT/blob/main/SYNCHRO.xml)
     * 5.4 Cliquez sur `Enregistrer` dans l'éditeur RibbonX.
-6. fermer et relancer Powerpoint.
-7. Glisser le fichier SYNCHRO.ppam dans le ruban
+6.  **Fermez et relancez PowerPoint.**
+7.  **Glissez-déposez le fichier `SYNCHRO.ppam` directement dans le ruban de PowerPoint.**
 
 ### Méthode 2 : Glisser-déposer (Drop and Play)
 
-1.  **Téléchargez le fichier `SYNCHRO.ppam`** fourni dans ce dépôt.
+1.  **Téléchargez le fichier `SYNCHRO.ppam`** fourni dans ce dépôt. [Télécharger SYNCHRO.ppam](https://github.com/Tangui-Gouirand/Synchroniser-VBA-POWERPOINT/blob/main/Synchro.ppam)
 2.  **Ouvrez PowerPoint.**
 3.  **Glissez-déposez le fichier `SYNCHRO.ppam`** directement dans la fenêtre de PowerPoint.
 4.  **Le ruban sera automatiquement mis à jour** avec le bouton "SYNCHRO".
