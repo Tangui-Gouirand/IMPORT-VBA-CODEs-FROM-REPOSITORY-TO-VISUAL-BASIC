@@ -73,7 +73,7 @@ I use it to work on Visual Studio Code and import my code into the Visual Basic 
 
 ## Tutorial: Add the "SYNCHRO" code to the PowerPoint ribbon
 
-### Method 1: Step by step (with ribbon customization)
+### Method 1: Step by step
 
 1.  **Open PowerPoint.**
 2.  **Open the VBA editor** by pressing `Alt + F11` or going to the ribbon, `Developer` tab, then `Visual Basic`.
