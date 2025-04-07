@@ -8,9 +8,13 @@ Ce projet fournit un code permettant d'importer rapidement du code VBA (`.cls`, 
 
 1.  **Ouvrez PowerPoint.**
 2.  **Ouvrez l'éditeur VBA** en appuyant sur `Alt + F11` ou dans le ruban aller dans `Développeur` puis `Visual Basic` .
-3.  **Importez le code BAS** fourni dans ce dépôt, `Fichier` > `Importer un fichier`.
+3.  **Importez le code BAS** fourni dans ce dépôt, `Fichier` > `Importer un fichier`. https://github.com/Tangui-Gouirand/Synchroniser-VBA-POWERPOINT/blob/main/SYNCHRO.bas
 4.  **Enregistrez le fichier au format ppam** en allant dans `Fichier` > `Enregistrer Présentation `.
 5.  **Installer et ouvrir :https://github.com/fernandreu/office-ribbonx-editor**
+  5.1 Ouvrez le fichier PPAM
+  5.2 Faire un clique droit sur le fichier, puis cliquez sur `Insérer Office 2010+ Custom Ul Part`
+  5.3 copiez le code du `SYNCHRO.xml`
+  5.4 cliquez sur `Enregister`
 
 ### Méthode 2 : Glisser-déposer (Drop and Play)
 
