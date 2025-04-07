@@ -26,7 +26,7 @@ Je l'utilise pour pouvoir travailler sur Visual Studio Code et importer mon code
 
 ## Tutoriel : Ajouter le code "SYNCHRO" au ruban PowerPoint
 
-### Méthode 1 : Pas à pas (avec personnalisation du ruban)
+### Méthode 1 : Pas à pas
 
 1.  **Ouvrez PowerPoint.**
 2.  **Ouvrez l'éditeur VBA** en appuyant sur `Alt + F11` ou en allant dans le ruban, onglet `Développeur` puis `Visual Basic`.
