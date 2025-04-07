@@ -1,4 +1,4 @@
-Sub SynchroniserModules()
+Sub SynchroniserCodeVBA()
 
     Dim FSO As Object
     Dim ProjetVBA As Object
