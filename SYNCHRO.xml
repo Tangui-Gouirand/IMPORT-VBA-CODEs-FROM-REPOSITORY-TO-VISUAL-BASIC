@@ -3,7 +3,7 @@
      <tabs>
        <tab id="CustomTab" label="SynchroniserCodeVBA">
          <group id="ResynchroniserModules" label="synchroniser">
-           <button id="Button_Synchroniser" label="Resynchroniser Code" size="large" onAction="SynchroniserCodeVBA" />
+           <button id="Button_Synchroniser" label="Synchroniser Code" size="large" onAction="SynchroniserCodeVBA" />
          </group>
        </tab>
      </tabs>
