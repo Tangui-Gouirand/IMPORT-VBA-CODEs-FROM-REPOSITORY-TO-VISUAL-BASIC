@@ -1,6 +1,8 @@
-# Synchroniser-VBA-POWERPOINT
+# Importer des fichiers de CODE VBA depuis un répertoire
 
 Ce projet fournit un code permettant d'importer rapidement du code VBA (`.cls`, `.bas`, `.frm`) depuis un dossier et ses sous-dossiers vers l'environnement Visual Basic de PowerPoint.
+
+Je l'utilise pour pouvoir travailler sur Visual Studio Code et importer mon code vers l'environnement de travail Visual Basic rapidement.
 
 ## Tutoriel : Ajouter le code "SYNCHRO" au ruban PowerPoint
 
